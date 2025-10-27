@@ -11,6 +11,7 @@ public class App {
             score += 1;
         } else {
             System.out.println("Incorrect");
+            System.out.println(a+b);
         }
 
         int c = Methods.randInt(1, 10);
@@ -37,6 +38,7 @@ public class App {
             score += 1;
         } else {
             System.out.println("Incorrect");
+            system.out.println(e*f);
         }
 
         double g = Methods.randInt(1, 10);
